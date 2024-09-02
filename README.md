@@ -5,7 +5,7 @@ I have started my first ever Finnish speaking job in Yle last September and have
 1. I will be posting more of work (especially corporate) -related vocabulary in the future that I have collected - perhaps it could help someone who is also in the beginning of their Finnish language journey. Feel free to submit an issue or a PR if you see something that needs to be fixed.
 
 ## Techical vocabulary
-This vocabulary can also be found `.csv` format in this repository (`finnish_english_technical_vocabulary.csv`). You can import it to Quizlet or Anki, or use my [pre-made Quizlet set](https://quizlet.com/909158467/finnish-technicalprogramming-vocabulary-flash-cards/?i=27pyp5&x=1jqt).  
+This vocabulary can also be found `.csv` format in this repository [finnish_english_technical_vocabulary.csv](https://github.com/v-blazhko/finnish-technical-vocabulary/blob/main/finnish_english_technical_vocabulary.csv). You can import it to Quizlet or Anki, or use my [pre-made Quizlet set](https://quizlet.com/909158467/finnish-technicalprogramming-vocabulary-flash-cards/?i=27pyp5&x=1jqt).  
 
 
 | Suomeksi                                                | Englanniksi                                          |
@@ -152,7 +152,7 @@ This vocabulary can also be found `.csv` format in this repository (`finnish_eng
 
 
 ## Corporate technical vocabulary
-In `.csv` format: `finnish_english_corporate_vocab.csv`. Quizlet: https://quizlet.com/fi/937465836/corporate-technical-vocabulary-flash-cards
+In `.csv` format: [finnish_english_corporate_vocab.csv](https://github.com/v-blazhko/finnish-technical-vocabulary/blob/main/finnish_english_corporate_vocab.csv). Quizlet: https://quizlet.com/fi/937465836/corporate-technical-vocabulary-flash-cards
 
 | Suomeksi                               | Englanniksi                                |
 |----------------------------------------|--------------------------------------------|
@@ -337,7 +337,7 @@ In `.csv` format: `finnish_english_corporate_vocab.csv`. Quizlet: https://quizle
 
 
 ## Corporate work phrases
-In `.csv` format: `finnish_english_corporate_phrases.csv`. Quizlet: https://quizlet.com/fi/937465013/corporate-work-phrases-flash-cards
+In `.csv` format: [finnish_english_corporate_phrases.csv](https://github.com/v-blazhko/finnish-technical-vocabulary/blob/main/finnish_english_corporate_phrases.csv). Quizlet: https://quizlet.com/fi/937465013/corporate-work-phrases-flash-cards
 
 | Suomeksi                                                          | Englanniksi                                                       |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|
