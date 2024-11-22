@@ -378,7 +378,8 @@ In `.csv` format: [finnish_english_corporate_phrases.csv](https://github.com/v-b
 | Mitä on luvassa?                                                  | What's coming up?                                                 |
 
 ## A bit more assorted tech and corporate words
-In `.csv` format: [finnish_english_corporate_vocab_and_phrases_pt3.csv](https://github.com/v-blazhko/finnish-technical-vocabulary/blob/main/finnish_english_corporate_vocab_and_phrases_pt3.csv).
+In `.csv` format: [finnish_english_corporate_vocab_and_phrases_pt3.csv](https://github.com/v-blazhko/finnish-technical-vocabulary/blob/main/finnish_english_corporate_vocab_and_phrases_pt3.csv). Quizlet set: [quizlet.com/fi/975121596/corporate-and-technical-finnish-english-vocabulary-part-3-flash-cards/](https://quizlet.com/fi/975121596/corporate-and-technical-finnish-english-vocabulary-part-3-flash-cards/).
+
 
 | English                                                                              | Finnish                                                                        |
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
